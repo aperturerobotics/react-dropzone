@@ -1,6 +1,8 @@
 # react-dropzone
 
-`react-dropzone` is a fork of [react-dropzone](https://github.com/react-dropzone/react-dropzone).
+`@aptre/react-dropzone` is a fork of [react-dropzone](https://github.com/react-dropzone/react-dropzone).
+
+It is built with esbuild and supports esmodules only.
 
 ## Installation
 

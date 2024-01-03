@@ -1,4 +1,4 @@
-# react-dropzone-esm
+# react-dropzone
 
 `react-dropzone` is a fork of [react-dropzone](https://github.com/react-dropzone/react-dropzone).
 

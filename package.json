@@ -1,19 +1,13 @@
 {
   "name": "@aptre/react-dropzone",
   "description": "Simple HTML5 drag-drop zone with React.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "types": "./types/react-dropzone.d.ts",
-  "module": "./dist/esm/index.mjs",
+  "module": "./dist/index.mjs",
   "exports": {
     ".": {
-      "import": {
-        "types": "./types/react-dropzone.d.mts",
-        "default": "./dist/esm/index.mjs"
-      },
-      "require": {
-        "types": "./types/react-dropzone.d.ts",
-        "default": "./dist/cjs/index.js"
-      }
+      "types": "./types/react-dropzone.d.ts",
+      "default": "./dist/index.mjs"
     }
   },
   "sideEffects": false,
